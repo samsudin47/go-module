@@ -1,7 +1,7 @@
 package say_hello
 
 func SayHello(name string) string {
-	return "Hello, " + name + "! , Welcome to Golang . This is version 2"
+	return "Hello, " + name + "! , Welcome to Golang . This is version 3"
 }
 
 // catatan
