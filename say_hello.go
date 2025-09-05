@@ -8,3 +8,6 @@ func SayHello(name string) string {
 // cara membuat module ke github -> git tag v1.0.0
 
 // menambah dependensi
+// go get github.com/samsudin47/go-module@v1.0.0
+// go get github.com/samsudin47/go-module@latest
+// go get github.com/samsudin47/go-module@v2
